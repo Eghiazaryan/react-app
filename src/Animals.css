@@ -1,0 +1,38 @@
+body {
+    background-color: grey;
+  }
+  
+ 
+   
+  .content {
+    color: brown;
+    font-size: 20px;
+    margin: 0 auto;
+    max-width: 800px;
+  }
+  
+  li {
+    list-style: none;
+  }
+  
+  .Name {
+    width: 30%;
+    margin-bottom: 20px;
+    margin-left: auto;
+    padding-left: 40px; 
+    padding-top: 10px;
+    background-color: white;
+  }
+  
+  .Color {
+    width: 30%;
+    margin-bottom: 20px;
+    background-color: white;
+    padding-left: 30px;
+    padding-top: 10px;
+  }
+  
+  p {
+    color: black;
+    font-weight: bold;
+  }
